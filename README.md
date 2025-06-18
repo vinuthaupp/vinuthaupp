@@ -5,14 +5,30 @@
 - 🔭 I’m interested in transforming complex data into clear, actionable insights that support better decisions.
 - 👯 I’m looking to collaborate on data-driven projects, dashboards, or anything related to data analytics.
 
-- ### 🛠️ Skills & Tools
 
-- **Power BI** – Data modeling, DAX, report building  
-- **SQL** – Data extraction, joins, subqueries, and optimization  
-- **Excel** – Pivot tables, formulas, dashboards  
-- **Python** – Data manipulation (Pandas, NumPy), basic automation  
-- **Problem Solving** – Root cause analysis, structured thinking  
-- **Analytical Thinking** – Translating data into actionable insights
+### 🛠️ Skills & Tools
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" title="Power BI"/>
+  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" title="SQL"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" title="Excel"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-office-2019.png" alt="MS Office" title="MS Office"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" title="HTML"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS Cloud" title="AWS Cloud"/>
+  <img src="https://img.icons8.com/color/48/000000/google-analytics.png" alt="Google Analytics" title="Google Analytics"/>
+</p>
+
+
+### 🧠 Core Strengths
+
+- Problem Solving  
+- Analytical Thinking  
+- Data Modeling  
+- Dashboard Design  
+- Storytelling with Data
 
 - ### 💼 Projects
 
