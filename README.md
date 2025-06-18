@@ -16,10 +16,10 @@
 
 - ### 💼 Projects
 
-- 🛒 **Freshco Hypermarket Analysis** *(Excel)* – Built interactive dashboards using pivot tables, charts, and formulas to identify sales patterns and top-performing products.
-- 🏬 **ShopNest Store Analysis** *(Power BI)* – Created an interactive report with calculated measures, slicers, and data modeling to derive insights from retail data.
+- 🛒 **MS Excel** – Built interactive dashboards using pivot tables, charts, and formulas to identify sales patterns and top-performing products.
+- 🏬 **Power BI** – Created an interactive report with calculated measures, slicers, and data modeling to derive insights from retail data.
 - 🐍 **Python Fundamentals Capstone** – Cleaned and analyzed datasets using **Numpy** and **Pandas**.
-- ✈️ **Airline Database Project** *(SQL)* – Wrote complex queries to analyze flight routes, delays, and passenger trends using relational databases.
+- ✈️ **SQL** *(SQL)* – Wrote complex queries to analyze flight routes, delays, and passenger trends using relational databases.
 
 - ### 📈 Currently Learning
 
