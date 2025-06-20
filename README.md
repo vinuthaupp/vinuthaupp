@@ -3,6 +3,7 @@
 
 
 - 🔭 I’m interested in transforming complex data into clear, actionable insights that support better decisions.
+- 🎓 I’m certified in Data Analytics + Python from Skillovilla.
 - 👯 I’m looking to collaborate on data-driven projects, dashboards, or anything related to data analytics.
 
 
